@@ -1,0 +1,21 @@
+[Appearance]
+BoldIntense=true
+ColorScheme=Breeze
+Font=Terminus,11,-1,5,50,0,0,0,0,0,Regular
+
+[Cursor Options]
+CustomCursorColor=0,0,0
+UseCustomCursorColor=false
+
+[General]
+Name=vlad
+Parent=FALLBACK/
+TerminalColumns=120
+
+[Interaction Options]
+AutoCopySelectedText=true
+
+[Scrolling]
+HistoryMode=2
+HistorySize=9999
+ScrollFullPage=false
